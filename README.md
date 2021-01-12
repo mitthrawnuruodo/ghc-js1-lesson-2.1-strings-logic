@@ -9,7 +9,25 @@ Console log out the results.
 
 ## Exercise 2
 
+Given the string "Blåbærsyltetøy": 
+
+a) Extract the letters from start position 3 to potition 5 (including the 5), into a new variable.
+
+b) Extract the last 8 letters, into a new variable.
+
+c) Extract the first three letters, into a new variable.
+
+Console log out the results.
+
 ## Exercise 3
+
+Given the string "Blåbærsyltetøy": 
+
+a) Extract the letter at position 2 into a new variable.
+
+b) What is the unicode number for 'æ', 'ø', and 'å', respectivly?
+
+Console log out the results.
 
 ## Exercise 4
 
@@ -27,7 +45,6 @@ London calling see we ain't got no swing
 a) What is the index of the first occurance of "London calling"?
 
 a) What is the index of the last occurance of "London calling"?
-
 
 ## Exercise 5
 
