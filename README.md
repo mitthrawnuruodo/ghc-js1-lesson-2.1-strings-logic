@@ -13,6 +13,21 @@ Console log out the results.
 
 ## Exercise 4
 
+Given the string (template): 
+
+`London calling to the faraway towns 
+Now war is declared and battle come down 
+London calling to the underworld 
+Come out of the cupboard, you boys and girls 
+London calling now don't look to us 
+Phony Beatlemania has bitten the dust 
+London calling see we ain't got no swing 
+'Cept for the ring of that truncheon thing.`
+
+a) What is the index of the first occurance of "London calling"?
+
+a) What is the index of the last occurance of "London calling"?
+
 
 ## Exercise 5
 
@@ -35,6 +50,6 @@ if (sum % 10 == 0){
 }
 ```
 
-What values does `sum`need to log out 'a', 'b', 'c', 'd' and 'e', respectively?
+Level 2: Is it possible to get output 'b'? Explain.
 
-<!-- This exercise is based on https://exlskills.com/learn-en/courses/javascript-fundamentals-basics_javascript/conditional-statements-zgrXFcSqdfIF/the-if-statements-YcHrGQKxvTOI/nested-if-statements-nSAoxbDFvMOq -->
+<!-- This exercise is taken from https://exlskills.com/learn-en/courses/javascript-fundamentals-basics_javascript/conditional-statements-zgrXFcSqdfIF/the-if-statements-YcHrGQKxvTOI/nested-if-statements-nSAoxbDFvMOq -->
