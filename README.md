@@ -76,7 +76,6 @@ if (sum % 10 == 0){
     console.log("e")
 }
 ```
+<!-- This exercise is taken from https://exlskills.com/learn-en/courses/javascript-fundamentals-basics_javascript/conditional-statements-zgrXFcSqdfIF/the-if-statements-YcHrGQKxvTOI/nested-if-statements-nSAoxbDFvMOq -->
 
 Level 2: Is it possible to get output 'b'? Explain.
-
-<!-- This exercise is taken from https://exlskills.com/learn-en/courses/javascript-fundamentals-basics_javascript/conditional-statements-zgrXFcSqdfIF/the-if-statements-YcHrGQKxvTOI/nested-if-statements-nSAoxbDFvMOq -->
