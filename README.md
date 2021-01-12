@@ -31,6 +31,16 @@ Console log out the results.
 
 ## Exercise 4
 
+Given the strings "Shout, shout!" and "Let it all out.", merge the two with a space between them, *without* using the string concatinator operator (`+`):
+
+a) Using a string method.
+
+b) Using a template literal.
+
+Console log out the results.
+
+## Exercise 5
+
 Given the string (template): 
 
 `London calling to the faraway towns 
@@ -46,7 +56,7 @@ a) What is the index of the first occurance of "London calling"?
 
 a) What is the index of the last occurance of "London calling"?
 
-## Exercise 5
+## Exercise 6
 
 Given the following code, what is logged out (try first without coding it):
 
