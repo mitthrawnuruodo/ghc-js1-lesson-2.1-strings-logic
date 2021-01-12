@@ -1,6 +1,11 @@
-# pf-lesson-2.1-strings-logic
+# Programming Foundations Lesson 2.1: String properties and methods, logic
 
 ## Exercise 1
+a) Convert the string "Down the freeway rolls a wayward beer can" to UPPER CASE.
+
+b) Convert the string "YOU SHOULDN'T HAVE TO SELL YOUR SOUL" to lower case.
+
+Console log out the results.
 
 ## Exercise 2
 
