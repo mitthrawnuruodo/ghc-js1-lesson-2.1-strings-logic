@@ -42,7 +42,7 @@ Console log out the results.
 ## Exercise 5
 
 Given the string (template): 
-
+```js
 `London calling to the faraway towns 
 Now war is declared and battle come down 
 London calling to the underworld 
@@ -51,6 +51,7 @@ London calling now don't look to us
 Phony Beatlemania has bitten the dust 
 London calling see we ain't got no swing 
 'Cept for the ring of that truncheon thing.`
+```
 
 a) What is the index of the first occurance of "London calling"?
 
