@@ -1,4 +1,4 @@
-# Programming Foundations Lesson 2.1: String properties and methods, logic
+# JavaScript 1 Lesson 2.1: String properties and methods, logic
 
 ## Exercise 1
 a) Convert the string "Down the freeway rolls a wayward beer can" to UPPER CASE.
